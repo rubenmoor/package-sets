@@ -588,7 +588,7 @@
       "colors",
       "lists"
     ],
-    "repo": "https://github.com/paf31/purescript-drawing",
+    "repo": "https://github.com/paf31/purescript-drawing.git",
     "version": "v4.0.0"
   },
   "effect": {
@@ -1932,7 +1932,7 @@
       "prelude",
       "st"
     ],
-    "repo": "https://github.com/opyapeus/purescript-pseudo-random",
+    "repo": "https://github.com/opyapeus/purescript-pseudo-random.git",
     "version": "v0.2.1"
   },
   "quickcheck": {
