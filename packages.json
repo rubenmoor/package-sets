@@ -1923,6 +1923,18 @@
     "repo": "https://github.com/purescript/purescript-psci-support.git",
     "version": "v4.0.0"
   },
+  "pseudo-random": {
+    "dependencies": [
+      "arrays",
+      "console",
+      "effect",
+      "lcg",
+      "prelude",
+      "st"
+    ],
+    "repo": "https://github.com/opyapeus/purescript-pseudo-random",
+    "version": "v0.2.1"
+  },
   "quickcheck": {
     "dependencies": [
       "arrays",
