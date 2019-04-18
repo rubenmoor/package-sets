@@ -580,6 +580,17 @@
     "repo": "https://github.com/slamdata/purescript-dom-indexed.git",
     "version": "v7.0.0"
   },
+  "drawing": {
+    "dependencies": [
+      "integers",
+      "canvas",
+      "math",
+      "colors",
+      "lists"
+    ],
+    "repo": "https://github.com/paf31/purescript-drawing",
+    "version": "v4.0.0"
+  },
   "effect": {
     "dependencies": [
       "prelude"
